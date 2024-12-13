@@ -456,8 +456,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "0":{
-  "id":"1",
+  "38":{
+  "id":"38",
   "name":"DISCOVERY HD",
   "description":"Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
   "live_url":"http://145.255.192.25/DISCOVERY_HD/index.m3u8",
@@ -468,8 +468,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "39":{
+  "id": "39",
   "name": "REAL LIFE",
   "description": "Real Life est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4335",
@@ -480,8 +480,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "40":{
+  "id": "40",
   "name": "TLC TV",
   "description": "TLC est une chaîne télévisée spécialisée au Divertissements et autres",
   "live_url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
@@ -492,8 +492,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "41":{
+  "id": "41",
   "name": "AMERICAN IDOL",
   "description": "American idol tv est une chaine televisee pour les competions got talent",
   "live_url": "https://d2h3esqi6ab3e7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-amzcfijfnc8wu/index.m3u8",
@@ -504,8 +504,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "42":{
+  "id": "42",
   "name": "UK GOT TALENT",
   "description": "UK GOT Talent tv est une chaine televisee pour les competions got talent en Angleterre",
   "live_url": "https://dhkq1p9audihq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ty7fjsrdyiaa7/index.m3u8",
@@ -516,8 +516,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "43":{
+  "id": "43",
   "name": "TELESUR ENGLISH",
   "description": "Telesur English est une chaine televisee",
   "live_url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
@@ -528,8 +528,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "44":{
+  "id": "44",
   "name": "FRANCE 2",
   "description": "France 2 est une chaine televisee du France",
   "live_url": "http://69.64.57.208/france2/playlist.m3u8",
@@ -540,8 +540,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "45":{
+  "id": "45",
   "name": "FRANCE 5",
   "description": "France 5 est une chaine televisee du France",
   "live_url": "http://69.64.57.208/france5/playlist.m3u8",
@@ -552,8 +552,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "46":{
+  "id": "46",
   "name": "LIFE TV",
   "description": "Life tv est une chaine televisee..",
   "live_url": "http://69.64.57.208/lifetv/playlist.m3u8",
@@ -564,8 +564,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "47":{
+  "id": "47",
   "name": "FAILARMY TV",
   "description": "FAILARMY TV est une chaîne de Télévision généraliste",
   "live_url": "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8",
@@ -576,8 +576,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "10":{
-  "id": "10",
+   "48":{
+  "id": "48",
   "name": "FRESH TV",
   "description": "Fresh TV est une chaîne de télévision de divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8",
@@ -588,8 +588,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "49":{
+  "id": "49",
   "name": "LIME LIGHTS TV",
   "description": "Lime lights TV est une chaîne de télévision de divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8",
@@ -600,8 +600,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
-  "id": "12",
+  "50":{
+  "id": "50",
   "name": "RPM TV",
   "description": "RPM TV est une chaîne de télévision de divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
@@ -612,8 +612,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "0":{
-  "id":"1",
+   "51":{
+  "id":"51",
   "name":"TRACE BAZUKA",
   "description":"Trace Bazuka TV est une chaîne télévisée spécialisée dans la musique internationa",
   "live_url":"https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8",
@@ -624,8 +624,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "52":{
+  "id": "52",
   "name": "TRACE URBAN",
   "description": "Trace Urbain TV est la chaine consacrée à la musique d'Afrique et internationale...",
   "live_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
@@ -636,8 +636,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "53":{
+  "id": "53",
   "name": "AFROBEATS",
   "description": "Afrobeat tv is a division of kaycee records .Kaycee Records is an independent record label established in the United Kingdom, and Nigeria Owned by Kennedy Kesidi Richard from Oguta in Imo State Nigeria .Afro beat tv is the new musical innovation to promote African art and and as a platform to promote and create awareness for up coming African artist all around the globe",
   "live_url": "https://stream.ecable.tv/afrobeats/index.m3u8",
@@ -648,8 +648,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "54":{
+  "id": "54",
   "name": "DBN TV",
   "description": "DBN TV est la chaine consacrée à la musique d'Afrique et internationale",
   "live_url": "https://edge11.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8",
@@ -660,8 +660,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "55":{
+  "id": "55",
   "name": "TELE MUSIK",
   "description": "Tele Musik TV est la chaine privee du senegal consacree au music...",
   "live_url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8",
@@ -672,8 +672,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "56":{
+  "id": "56",
   "name": "TRACE IVOIRE",
   "description": "Trace Ivoire TV est la premiere chaine culturelle consacree a la musique",
   "live_url": "https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8",
@@ -684,8 +684,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "57":{
+  "id": "57",
   "name": "V2BEAT TV",
   "description": "V2beat TV est la chaîne consacree à la musique internationale",
   "live_url": "https://de1se01.v2beat.live/playlist.m3u8",
@@ -696,8 +696,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "58":{
+  "id": "58",
   "name": "AYISYANA MUSIK",
   "description": "Ayisyana Musik TV est une chaîne de télévision du musique international",
   "live_url": "https://59d39900ebfb8.streamlock.net:443/RTHAITIANA/RTHAITIANA/chunklist_w1180876317.m3u8",
@@ -708,8 +708,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "59":{
+  "id": "59",
   "name": "T.M.A CARAÏBES",
   "description": "TMA Caraïbes est une chaîne télévisée spécialisée dans la musique africaine et international..",
   "live_url": "http://hls.tmacaraibes.com/live/index.m3u8",
@@ -720,8 +720,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "60":{
+  "id": "60",
   "name": "HMI PROMZ",
   "description": "HMI PROMZ NEWS is an independent communication and multimedia company working in the promotion, distribution, production of Haitian music and culture in general. This multidimensional company was founded on March 30, 2019 by career journalist Claude Bellevue, gathering around him, a group of professionals working in the field of information, public relations, major events, marketing, audiovisual, staging, lighting, sound and artistic creation in order to offer an international audience to the rich Haitian culture",
   "live_url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
@@ -732,8 +732,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "10":{
-  "id": "10",
+   "61":{
+  "id": "61",
   "name": "MUZIK TV",
   "description": "Muzik TV est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international",
   "live_url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
@@ -744,8 +744,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "62":{
+  "id": "62",
   "name": "MY MUSIC TV",
   "description": "MY Music est une une chaîne spécialisée aux musiques qui diffuse des musiques africaines et international.",
   "live_url": "http://mntv.livebox.co.in/musichls/live.m3u8",
@@ -756,8 +756,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "0":{
-  "id":"1",
+   "63":{
+  "id":"63",
   "name":"TOP NOVELAS",
   "description":"Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : fairspcc@gmail.com",
   "live_url":"https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
@@ -768,8 +768,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "64":{
+  "id": "64",
   "name": "NOVELAS TV",
   "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
   "live_url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
@@ -780,8 +780,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "65":{
+  "id": "65",
   "name": "GTV 1",
   "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
   "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
@@ -792,8 +792,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "66":{
+  "id": "66",
   "name": "PASSION NOVELAS",
   "description": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
   "live_url": "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8",
@@ -804,8 +804,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "67":{
+  "id": "67",
   "name": "NOLLYWOOD TV",
   "description": "Nollywood TV est une chaine televisee des series Africaines et autres.",
   "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
@@ -816,8 +816,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "68":{
+  "id": "68",
   "name": "NOVELAS TV 2",
   "description": "Novelas TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres",
   "live_url": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8",
@@ -828,8 +828,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "16":{
-  "id": "16",
+   "69":{
+  "id": "69",
   "name": "ROMANZA TV",
   "description": "Romanza TV est une chaine des films et series pour votre divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
@@ -840,8 +840,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "70":{
+  "id": "70",
   "name": "A+ IVOIRE",
   "description": "A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries Africaines, informations, musiques et autres.",
   "live_url": "http://69.64.57.208/atv/playlist.m3u8",
@@ -852,8 +852,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "71":{
+  "id": "71",
   "name": "AFRO MAGIC",
   "description": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
   "live_url": "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8",
@@ -864,8 +864,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "72":{
+  "id": "72",
   "name": "TELE NOVELAS",
   "description": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false",
@@ -876,8 +876,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "73":{
+  "id": "73",
   "name": "SERIE FANTATISQUE",
   "description": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false",
@@ -888,8 +888,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "10":{
-  "id": "10",
+   "74":{
+  "id": "74",
   "name": "MADI TV",
   "description": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili..",
   "live_url": "http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8",
@@ -900,8 +900,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "75":{
+  "id": "75",
   "name": "CINEMA HAUSA",
   "description": "Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais",
   "live_url": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8",
@@ -912,8 +912,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
-  "id": "12",
+  "76":{
+  "id": "76",
   "name": "AFRIWOOD BLOCKBUSTER",
   "description": "Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8",
@@ -924,8 +924,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "13":{
-  "id": "13",
+  "77":{
+  "id": "77",
   "name": "TRUE AFRICA",
   "description": "True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
@@ -936,8 +936,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "14":{
-  "id": "14",
+  "78":{
+  "id": "78",
   "name": "AFROLAND TV",
   "description": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians.",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265",
@@ -948,8 +948,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "15":{
-  "id": "15",
+  "79":{
+  "id": "79",
   "name": "AFROLAND TV 2",
   "description": "Afroland TV 2 est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians.",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492",
@@ -960,8 +960,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "17":{
-  "id": "17",
+  "80":{
+  "id": "80",
   "name": "MANJARO TV",
   "description": "Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement..",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404",
@@ -972,8 +972,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "18":{
-  "id": "18",
+  "81":{
+  "id": "81",
   "name": "TELEVISA",
   "description": "Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.",
   "live_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
@@ -984,8 +984,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "19":{
-  "id": "19",
+  "82":{
+  "id": "82",
   "name": "TELE NOVELA",
   "description": "Tele Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
@@ -996,8 +996,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "20":{
-  "id": "20",
+  "83":{
+  "id": "83",
   "name": "RTI 2",
   "description": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres..",
   "live_url": "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8",
@@ -1008,8 +1008,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "21":{
-  "id": "21",
+  "84":{
+  "id": "84",
   "name": "NOVELAS TURCAS",
   "description": "Novelas Turcas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres..",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
@@ -1020,8 +1020,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "22":{
-  "id": "22",
+  "85":{
+  "id": "85",
   "name": "NOVELAS 3",
   "description": "Novelas TV 3 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
   "live_url": "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8",
@@ -1032,8 +1032,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "23":{
-  "id": "23",
+  "86":{
+  "id": "86",
   "name": "AVA SERIES",
   "description": "Ava Serie est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
   "live_url": "https://avaserieshls.wns.live/hls/stream.m3u8",
@@ -1044,8 +1044,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "24":{
-  "id": "24",
+  "87":{
+  "id": "87",
   "name": "NOVELISME TV",
   "description": "Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
@@ -1056,8 +1056,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "0":{
-  "id":"1",
+   "88":{
+  "id":"88",
   "name":"ADVENTURE EARTH",
   "description":"Adventure Earth UK est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
   "live_url":"https://f8bdb8a4d6774c0ba30ca5b7653c92d3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_AdventureEarth/playlist.m3u8",
@@ -1068,8 +1068,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "89":{
+  "id": "89",
   "name": "ANIMAL PLANET",
   "description": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres.",
   "live_url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/1539795/playlist.m3u8?terminate=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&appName=web&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&appVersion=unknown&deviceType=web&deviceMake=Chrome",
@@ -1080,8 +1080,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "90":{
+  "id": "90",
   "name": "ANIMAL PLANET 2",
   "description": "Animal Planet HD est une chaîne télévisée spécialisée au Documentaires animaux et autres",
   "live_url": "https://dplus.gammacdn.workers.dev/videos/99.m3u8",
@@ -1092,8 +1092,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "91":{
+  "id": "91",
   "name": "NATURE ESCAPE",
   "description": "CCPV TV est une chaine congolaise avec des divers programmes",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4458",
@@ -1104,8 +1104,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "92":{
+  "id": "92",
   "name": "RT DOCUMENTARY",
   "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne",
   "live_url": "https://rtmp.api.rt.com/hls/rtdru.m3u8",
@@ -1116,8 +1116,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "0":{
-  "id":"1",
+  "93":{
+  "id":"93",
   "name":"MYTIME MOVIES",
   "description":"Mytime Movies est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url":"https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
@@ -1128,8 +1128,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "94":{
+  "id": "94",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8",
@@ -1140,8 +1140,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "95":{
+  "id": "95",
   "name": "PLEX TV",
   "description": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8",
@@ -1152,8 +1152,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "96":{
+  "id": "96",
   "name": "FILM FICTION",
   "description": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8",
@@ -1164,8 +1164,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "97":{
+  "id": "97",
   "name": "GOSPEL MOVIES",
   "description": "Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
   "live_url": "https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8",
@@ -1176,8 +1176,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "98":{
+  "id": "98",
   "name": "WILDSIDE TV",
   "description": "Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8",
@@ -1188,8 +1188,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "99":{
+  "id": "99",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8",
@@ -1200,8 +1200,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "100":{
+  "id": "100",
   "name": "A 12 MOVIES",
   "description": "A 12 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8",
@@ -1212,8 +1212,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "101":{
+  "id": "101",
   "name": "TELE PUISSANCE",
   "description": "Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8",
@@ -1224,8 +1224,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "102":{
+  "id": "102",
   "name": "SUPERSCREEN TV",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
@@ -1236,8 +1236,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "0":{
-  "id":"1",
+   "103":{
+  "id":"103",
   "name":"TV 5 MONDE",
   "description":"TV5 est une francaise d'informations international et autres",
   "live_url":"https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
@@ -1248,8 +1248,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "104":{
+  "id": "104",
   "name": "ALJAZEERA EN",
   "description": "Aljazeera est une chaine d'informations d'informations international et autres.",
   "live_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
@@ -1260,8 +1260,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "105":{
+  "id": "105",
   "name": "SABC NEWS",
   "description": "SABC NEWS infos est une francaise d'informations international et autres",
   "live_url": "http://185.59.221.131:8081/live/sabcnews/playlist.m3u8",
@@ -1272,8 +1272,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "106":{
+  "id": "106",
   "name": "ALJAZEERA FR",
   "description": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
   "live_url": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
@@ -1284,8 +1284,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "107":{
+  "id": "107",
   "name": "AFRICA 24",
   "description": "Africa 24 est une chaîne télévisée d'informations international et autres",
   "live_url": "https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
@@ -1296,8 +1296,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "108":{
+  "id": "108",
   "name": "BLOOMBERG TV",
   "description": "Bloomberg TV Europe est une chaîne télévisée d'informations international et autres",
   "live_url": "https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8",
@@ -1308,8 +1308,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "109":{
+  "id": "109",
   "name": "EURONEWS",
   "description": "EURONEWS est une chaîne télévisée d'informations international et autres",
   "live_url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -1320,8 +1320,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "110":{
+  "id": "110",
   "name": "EURONEWS",
   "description": "DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux",
   "live_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -1332,8 +1332,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "111":{
+  "id": "111",
   "name": "RT ENGLISH",
   "description": "Rassia Today est une chaîne télévisée d'informations international et autres",
   "live_url": "http://69.64.57.208/russiatoday/playlist.m3u8",
@@ -1344,8 +1344,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "112":{
+  "id": "112",
   "name": "RT FRANCAIS",
   "description": "Rassia Today est une chaîne télévisée d'informations international et autres",
   "live_url": "http://69.64.57.208/rtfrance/playlist.m3u8",
@@ -1356,8 +1356,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "10":{
-  "id": "10",
+   "113":{
+  "id": "113",
   "name": "BRICS TV",
   "description": "BRICS TV est une chaîne télévisée d'informations international et autres",
   "live_url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
@@ -1368,8 +1368,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "114":{
+  "id": "114",
   "name": "FOX NEWS",
   "description": "Fox News Television est une chaîne télévisée spécialisée au informations et autres",
   "live_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
@@ -1380,8 +1380,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
-  "id": "12",
+  "115":{
+  "id": "115",
   "name": "CGTN TV",
   "description": "CGTN est une chaîne télévisée d'informations international et autres",
   "live_url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
@@ -1392,8 +1392,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "13":{
-  "id": "13",
+  "116":{
+  "id": "116",
   "name": "CNA TV",
   "description": "CNA TV est une chaîne télévisée d'informations international et autres",
   "live_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
@@ -1404,8 +1404,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "14":{
-  "id": "14",
+  "117":{
+  "id": "117",
   "name": "BXL 1 TV",
   "description": "BXL 1 est une chaîne télévisée d'informations international et autres.",
   "live_url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
@@ -1416,8 +1416,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "15":{
-  "id": "15",
+  "118":{
+  "id": "118",
   "name": "BBC WORLD",
   "description": "BBC World News d'informations international et autres.",
   "live_url": "http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8",
@@ -1428,8 +1428,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-    "0":{
-  "id":"1",
+  "119":{
+  "id":"119",
   "name":"ONE TV",
   "description":"ONE-TV est une chaine Chrétienne emattan a kinshasa où vous disposez d'enseignements Chrétien français, des prédications et d'exhortations pour le développement de votre foi chrétienne",
   "live_url":"https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
@@ -1440,8 +1440,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "120":{
+  "id": "120",
   "name": "RADIO TÉLÉ SILO",
   "description": "Radio Télé Silo est une chaîne chrétienne",
   "live_url": "https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
@@ -1452,8 +1452,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "121":{
+  "id": "121",
   "name": "METANOIA TV",
   "description": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store",
   "live_url": "https://tnt-television.com/METANOIA-STREAM1/index.m3u8",
@@ -1464,8 +1464,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "122":{
+  "id": "122",
   "name": "CCPV TV",
   "description": "CCPV TV est une chaine congolaise avec des divers programmes",
   "live_url": "http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8",
@@ -1476,8 +1476,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "123":{
+  "id": "123",
   "name": "AYA TV",
   "description": "AYA TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques et autres chritienne",
   "live_url": "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8",
@@ -1488,8 +1488,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+   "124":{
+  "id": "124",
   "name": "MIRACLE TV",
   "description": "Miracle TV est une chaine televisee chretienne ivoiriens qui diffuse que des informations, musiques et autres chritienne...",
   "live_url": "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8",
@@ -1500,8 +1500,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+   "125":{
+  "id": "125",
   "name": "YAKAAR TV",
   "description": "Yakaar TV est la première chaîne de télévision chrétienne et liturgique au Sénégal. Yakaar TV vous fait découvrir la véritable culture du gospel Afro-Caribéen et la liturgie chrétienne",
   "live_url": "https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8",
@@ -1512,8 +1512,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+   "126":{
+  "id": "126",
   "name": "GLORY CHRIST",
   "description": "DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux",
   "live_url": "https://stream.it-innov.com/gcc/index.m3u8",
@@ -1524,8 +1524,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+   "127":{
+  "id": "127",
   "name": "SHAMMAH TV",
   "description": "SHAMMAH TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres...",
   "live_url": "https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8",
@@ -1536,8 +1536,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+   "128":{
+  "id": "128",
   "name": "RT PAIN VIVANT",
   "description": "Radio Tele Pain Vivant ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages",
   "live_url": "https://video1.getstreamhosting.com:1936/8028/8028/playlist.m3u8",
@@ -1548,8 +1548,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "10":{
-  "id": "10",
+   "129":{
+  "id": "129",
   "name": "A2i RELIGION",
   "description": "A2i tv Relegion est une chaine culturelle destinée à la Diasporat senegalais avec des programme chretiens",
   "live_url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
@@ -1560,8 +1560,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "11":{
-  "id": "11",
+   "130":{
+  "id": "130",
   "name": "JESUS TEMPLE TV",
   "description": "Jesus Temple TV est une chaîne télévisée chrétienne émettant à Accra au Ghana",
   "live_url": "https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8",
@@ -1572,8 +1572,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
-  "id": "12",
+  "131":{
+  "id": "131",
   "name": "LUMIERE TV",
   "description": "La LUMIÈRE, ministère Chrétien pour annoncer l’évangile de Jésus Christ partout dans le monde, toucher changer et sauver des vies par la puissance de la parole de DIEU avec des enseignements prédications adorations louanges partages de prières, d’exhortations et de témoignages",
   "live_url": "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8",
@@ -1584,8 +1584,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "13":{
-  "id": "13",
+  "132":{
+  "id": "132",
   "name": "KING TV",
   "description": "King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres...",
   "live_url": "http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8",
@@ -1596,8 +1596,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "14":{
-  "id": "14",
+  "133":{
+  "id": "133",
   "name": "CHOSEN TV",
   "description": "Chosen TV is set to deliver premium content to audiences across traditional and emerging platforms worldwide through bliss and thrill. We are giving content writers, broadcasters, television advertisers, TV Commercial agents, video bloggers, presenters, radio personalities a platform to air and monetize contents through television, streaming and digital content, studio production, publishing, live events, merchandise and more, they are assured of connecting with billions of people..",
   "live_url": "https://webstreaming-2.viewmedia.tv/web_024/Stream/playlist.m3u8",
@@ -1608,8 +1608,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "15":{
-  "id": "15",
+  "134":{
+  "id": "134",
   "name": "S-SANGO MALAMU",
   "description": "SSM TV est une chaine chretienne qui emette a kinshasa en diffusant des emissions et autres..",
   "live_url": "https://tv.tnf-rdc.com/SSM-STREAM1/index.m3u8",
@@ -1620,8 +1620,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "16":{
-  "id": "16",
+  "135":{
+  "id": "135",
   "name": "BRIDE TV",
   "description": "Bride TV c'est une chaîne religieuse du Nigeria qui diffusé des predications la musique chrétienne et les émissions chrétiennes et les films chrétiens",
   "live_url": "https://webstreaming.viewmedia.tv/web_013/Stream/playlist.m3u8",
@@ -1632,8 +1632,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "17":{
-  "id": "17",
+  "136":{
+  "id": "136",
   "name": "PAROLE ETERNELE",
   "description": "Parole Eternele TV est une chaine chretienne de l'eglise la Borne a lubumbashi..",
   "live_url": "http://85.234.131.234:8080/ISI-BROADCAST/PAROLETV/index.m3u8",
@@ -1644,8 +1644,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "18":{
-  "id": "18",
+  "137":{
+  "id": "137",
   "name": "DOVE TV",
   "description": "Dove TV is set to deliver premium content to audiences across traditional and emerging platforms worldwide through bliss and thrill. We are giving content writers, broadcasters, television advertisers, TV Commercial agents, video bloggers, presenters, radio personalities a platform to air and monetize contents through television, streaming and digital content, studio production, publishing, live events, merchandise and more, they are assured of connecting with billions of people",
   "live_url": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8",
@@ -1656,8 +1656,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "19":{
-  "id": "19",
+  "138":{
+  "id": "138",
   "name": "BENIE TV",
   "description": "BENIE TV est une télévision panafricaine d’obédience chrétienne dont la zone de couverture s’étend sur le monde, a été créée en Juin 2012 par le Couple Pastoral SAMUEL ET SYLVIANE OHENE-MANTE , Leaders de l’EGLISE EVANGELIQUE LA BENEDICTION située à Adjamé ; Commune De la Ville d’Abidjan,elle-même capitale de la République de Côte d’Ivoire. Elle est reçue gratuitement, sans abonnement à l’aide d’un décodeur et d’une parabole orientée dans la position des différents satellites par lesquels elle émet.BENIE TV met à la disposition de tous les annonceurs, partenaires, et sponsors, une plateforme de communication pour la diffusion de leurs messages, communiqués, spots et toute autre information relative à leurs activités avec pour objectif , Répandre l’évangile en vue de gagner des âmes à CHRIST, Permettre aux chrétiens de croitre spirituellement, Permettre aux Chrétiens de posséder leurs héritages",
   "live_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/benie_tv/hls_video/benie_tv-avc1_600000=4-mp4a_98400_qad=1.m3u8",
@@ -1668,8 +1668,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "20":{
-  "id": "20",
+  "139":{
+  "id": "139",
   "name": "COZA TV",
   "description": "Coza TV is set to deliver premium content to audiences across traditional and emerging platforms worldwide through bliss and thrill. We are giving content writers, broadcasters, television advertisers, TV Commercial agents, video bloggers, presenters, radio personalities a platform to air and monetize contents through television, streaming and digital content, studio production, publishing, live events, merchandise and more, they are assured of connecting with billions of people.",
   "live_url": "https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8",
@@ -1680,8 +1680,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "21":{
-  "id": "21",
+  "140":{
+  "id": "140",
   "name": "ECCLESIAN TV 1",
   "description": "Ecclesia TV, est une chaine de télévision généraliste de la société design plus entreprise ; axée sur la jeunesse et la culture de valeur chrétienne pour l’impact de christ dans le monde.",
   "live_url": "https://video1.getstreamhosting.com:1936/8018/8018/playlist.m3u8",
@@ -1692,8 +1692,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "22":{
-  "id": "22",
+  "141":{
+  "id": "141",
   "name": "ECCLESIA TV 2",
   "description": "Ecclesia TV, est une chaine de télévision généraliste de la société design plus entreprise ; axée sur la jeunesse et la culture de valeur chrétienne pour l’impact de christ dans le monde.",
   "live_url": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
@@ -1704,8 +1704,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "23":{
-  "id": "23",
+  "142":{
+  "id": "142",
   "name": "SERAPHIN TV",
   "description": "Seraphin TV est une chaine chretienne emettant en afrique du sud",
   "live_url": "https://tv.prayertime.co.za:3638/stream/play.m3u8",
@@ -1716,8 +1716,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "24":{
-  "id": "24",
+  "143":{
+  "id": "143",
   "name": "SALT TV",
   "description": "Salt TV is a Christian television channel station from Uganda. Salt TV is based in Kampala. Matthew 5:13-16 (NKJV) Believers Are Salt and Light 13 You are the salt of the earth, but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men",
   "live_url": "http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8",
@@ -1728,8 +1728,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "25":{
-  "id": "25",
+  "144":{
+  "id": "144",
   "name": "LOGOS CHANNEL",
   "description": "Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances",
   "live_url": "http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8",
@@ -1740,8 +1740,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "26":{
-  "id": "26",
+   "145":{
+  "id": "145",
   "name": "YADAH TV",
   "description": "YADAH TV aims to bring families together to watch a variety of unique and inspiring shows and ranging from entertainment kids programming educational documentaries and Nasheed enriching their lives and empowering them",
   "live_url": "https://webstreaming-2.viewmedia.tv/web_018/Stream/playlist.m3u8",
@@ -1752,8 +1752,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "27":{
-  "id": "27",
+   "146":{
+  "id": "146",
   "name": "KTO / CATHOLIC",
   "description": "KTO TV est une chaine chrétienne Catholique qui diffuse en direct des programmes chrétien avec des vidéos et des cultes en direct, des documentaires. radio Tele Puissance est une station très divertissante.",
   "live_url": "http://185.83.71.210/KTO/index.m3u8",
@@ -1764,8 +1764,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "28":{
-  "id": "28",
+   "147":{
+  "id": "147",
   "name": "NEW VISION",
   "description": "New Vision TV is nigerian christian channel.",
   "live_url": "https://webstreaming-2.viewmedia.tv/web_027/Stream/playlist.m3u8",
@@ -1776,8 +1776,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "29":{
-  "id": "29",
+   "148":{
+  "id": "148",
   "name": "RT PUISSANCE",
   "description": "Radio Tele Puissance est une chaine chrétienne qui diffuse en direct des programmes chrétien avec des vidéos et des films Gospel de premier ordre, des documentaires. radio Tele Puissance est une station très divertissante..",
   "live_url": "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8",
@@ -1788,8 +1788,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "30":{
-  "id": "30",
+   "149":{
+  "id": "149",
   "name": "LOVE WORLD SAT",
   "description": "Love world SAT was the first Christian television station to beam out of Africa to the rest of the world, nonstop on free-to-air networks.Our satellite coverage beams throughout the continent of Africa and parts of Europe via Intel Sat 20 satellite. We reach the continent of Asia via Thaicom 5 C Band satellite covering more than half of the world’s population and also cater for a global audience via our 24 hour online stream at www.loveworldsat.org, making LoveworldSAT accessible anywhere in the world",
   "live_url": "https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/chunklist.m3u8",
@@ -1800,8 +1800,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "31":{
-  "id": "31",
+   "150":{
+  "id": "150",
   "name": "ALPHA OMEGA",
   "description": "Alpha Omega est une chaine chrétienne qui diffuse en direct des programmes chrétien avec des vidéos et des films Gospel de premier ordre, des documentaires. MUSIC Gospel est une station très divertissante..",
   "live_url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
@@ -1812,8 +1812,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "32":{
-  "id": "32",
+   "151":{
+  "id": "151",
   "name": "CONGOPLANET GOSPEL",
   "description": "Congo Planet Rumba est la chaine de la RDCongo qui qui diffuse de la musique rumba congolaise t et autres",
   "live_url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
@@ -1824,8 +1824,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "33":{
-  "id": "33",
+   "152":{
+  "id": "152",
   "name": "HEALING JESUS",
   "description": "Healing Jésus TV est une chaîne télévisée chrétienne émettant à Accra au Ghana",
   "live_url": "https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8",
@@ -1836,8 +1836,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "34":{
-  "id": "34",
+   "153":{
+  "id": "153",
   "name": "GOD TV",
   "description": "GOD TV aims to bring families together to watch a variety of unique and inspiring shows and ranging from entertainment kids programming educational documentaries and Nasheed enriching their lives and empowering them",
   "live_url": "https://hlsb-us.god.tv/GODTV/USA-360.m3u8",
@@ -1848,8 +1848,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "35":{
-  "id": "35",
+   "154":{
+  "id": "154",
   "name": "MY GOSPEL",
   "description": "My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances",
   "live_url": "http://102.132.19.90:8000/play/a049/index.m3u8",
@@ -1860,8 +1860,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "36":{
-  "id": "36",
+   "155":{
+  "id": "155",
   "name": "CHRIST LIVE",
   "description": "CHRIST LIVE est une chaîne de divertissement et d’évènementiel Chrétien africain. Lancée en Juin 2019, elle diffuse en claire en Afrique francophone, anglophone et lusophone",
   "live_url": "https://voozmedia.fun/stream/christlive/playlist.m3u8",
@@ -1872,8 +1872,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "37":{
-  "id": "37",
+   "156":{
+  "id": "156",
   "name": "HOPE CHANNEL",
   "description": "Hope Channel TV est une chaîne télévisée chrétienne émettant à Accra au Ghana",
   "live_url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
@@ -1884,8 +1884,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "38":{
-  "id": "38",
+   "157":{
+  "id": "157",
   "name": "DIVINE AMOUR",
   "description": "Divin Amour TV s’inscrit dans une vision liée à la nouvelle évangélisation. C’est une télévision de réveil spirituel qui émet au plan national et international pour promouvoir la Parole de Dieu. Divin Amour TV prévoit réaliser ses objectifs à travers des enquêtes, des reportages, des journaux télévisés, des émissions innovantes et interactives, des portraits, des programmes d’évangélisation. Elle ne s’immisce pas dans les débats politiques, mais propose un regard chrétien sur l’actualité, invitant les Hommes à plus d’Amour et de solidarité comme ne cesse de le répéter le Pape François. Divin Amour TV est accessible par satellite et web-streaming. La chaîne répond ainsi donc à un besoin pressant et croissant exprimé par des milliers de femmes et d’hommes pas seulement catholiques, mais désireux de voir une chaîne de télévision chrétienne dans l’espace médiatique mondial",
   "live_url": "https://helga.iptv2022.com/Divin_Amour/index.m3u8",
@@ -1896,8 +1896,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-    "0":{
-  "id":"1",
+    "158":{
+  "id":"158",
   "name":"GOSPEL CHANNEL",
   "description":"Gospel Channel International, la première chaine chrétienne international avec la musique gospel universel. Contactez-nous au fairspcc@gmail.com",
   "live_url":"https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8",
@@ -1908,8 +1908,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "159":{
+  "id": "159",
   "name": "AFRICA GOSPEL",
   "description": "AFRICA GOSPEL est l'une des Televisions en charactere Gospel avec la diversite sans stop de la Musique Religieuse, Prédications et autres",
   "live_url": "https://helga.iptv2022.com/sh/Africagospel_Tv/tracks-v1a1/mono.m3u8",
@@ -1920,8 +1920,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-    "0":{
-  "id":"1",
+    "160":{
+  "id":"160",
   "name":"RYAN AND FRIENDS",
   "description":"Ryan and Friends TV est une chaîne télévisée spécialisée aux enfants et autres.",
   "live_url":"https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
@@ -1932,8 +1932,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+  "161":{
+  "id": "161",
   "name": "KIDDI WINKS",
   "description": "Kiddi Winks television est une chaîne télévisée spécialisée aux enfants et autres.",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8",
@@ -1944,8 +1944,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+   "162":{
+  "id": "162",
   "name": "TORTUE NINJA",
   "description": "Tortue Ninja television est une chaîne télévisée spécialisée aux enfants et autres",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1&serverSideAds=false",
@@ -1956,8 +1956,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+   "163":{
+  "id": "163",
   "name": "AFRO KIDS",
   "description": "Afro Kids TV est une chaîne télévisée russe spécialisée aux enfants et autres",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4493",
@@ -1968,8 +1968,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+   "164":{
+  "id": "164",
   "name": "SABRIBA SERIE",
   "description": "Sabrina Serie TV est une chaîne télévisée spécialisée aux enfants et autres..",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d91f8235-755b-4e9c-8062-05d444de314d&serverSideAds=false",
